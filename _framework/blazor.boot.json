@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WASMNet9",
   "resources": {
-    "hash": "sha256-8/TMXuc2EQ0wCKXLEa8qwRNPeNSiw8NpMuwJvnOhY1o=",
+    "hash": "sha256-xix/RS6ij8VPTsU0H5q9nwNLA49KshZgIle8qQ49YTk=",
     "fingerprinting": {
       "BitMiracle.LibTiff.NET.k3fftbjbr6.wasm": "BitMiracle.LibTiff.NET.wasm",
       "HarfBuzzSharp.w3qnvijmi6.wasm": "HarfBuzzSharp.wasm",
@@ -111,7 +111,7 @@
       "mscorlib.f1dxnsqn2v.wasm": "mscorlib.wasm",
       "netstandard.k119o9ffis.wasm": "netstandard.wasm",
       "System.Private.CoreLib.cqey34vua8.wasm": "System.Private.CoreLib.wasm",
-      "WASMNet9.8u3fka1g88.wasm": "WASMNet9.wasm",
+      "WASMNet9.v9cr1r5k7g.wasm": "WASMNet9.wasm",
       "dotnet.native.6sdu4yes77.js": "dotnet.native.js",
       "dotnet.native.pke6chzznc.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -245,7 +245,7 @@
       "System.m0fu6d0eya.wasm": "sha256-hkGLo/MuT/FJ0Xf4XUL0D2VA4dZV532GHNB1JicxLko=",
       "mscorlib.f1dxnsqn2v.wasm": "sha256-Q4d8UKIoUBdOkH1jOUhQ/HdVgioIZNQtuAR3+rkTtU4=",
       "netstandard.k119o9ffis.wasm": "sha256-iPkG0h443Bd6oFrSp6B+M9UuHACCx/xlqxkTIQty0fM=",
-      "WASMNet9.8u3fka1g88.wasm": "sha256-0DJfal2jV+K9zUHm5RJ5WpUZxKMznofENjFSAqhQJhw="
+      "WASMNet9.v9cr1r5k7g.wasm": "sha256-47NbM1FOIJtnEwd77CHB1TqcRus9NLG2ZIIYjFdz5dw="
     }
   },
   "cacheBootResources": true,
